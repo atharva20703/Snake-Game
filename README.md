@@ -11,3 +11,13 @@ This project is a classic Snake Game built using Python and the Tkinter library 
 
 ## How to Run
 1. Clone the repository:
+2. Install required dependencies (Tkinter).
+3. Run the game:
+
+## Future Enhancements
+- Adding different levels of difficulty.
+- Introducing obstacles and power-ups.
+- Sound effects and background music.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
